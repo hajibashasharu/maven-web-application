@@ -15,7 +15,7 @@
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
-
+/*
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
@@ -108,6 +108,7 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
+	*/
 	
 	<build>
 		<finalName>maven-web-application</finalName>
